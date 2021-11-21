@@ -1,0 +1,376 @@
+*
+{
+    margin:0%;
+}
+
+.first-frame
+{
+    width:100%;
+    height:775px;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('IN-en-20211108-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+}
+
+.header
+{
+    width:100%;
+    height:75px;
+}
+
+.logo
+{
+    width:15%;
+    height:75px;
+    float:left;
+}
+
+.netflix-logo
+{
+    fill: #e50914;
+    width:60%;
+    padding-left: 10%;
+    padding-top:5%;
+}
+
+.header-remainder
+{
+    width:20%;
+    height:75px;
+    margin-left: 80%;
+}
+
+.english-button
+{
+    width:50%;
+    height:75px;
+    float:left;
+    
+}
+
+.sign-in-button
+{
+    width:50%;
+    height:75px;
+    float:left;
+    
+}
+.english{
+    margin-left: 5%;
+    margin-top: 9%;
+    width:90%;
+    height:70%;
+    background-color:transparent;
+    border-color: white;
+    border-radius: 5px;
+}
+
+.sign-in{
+    margin-left: 5%;
+    margin-top: 9%;
+    width:90%;
+    height:70%;
+    background-color: #e50914;
+    border-radius: 5px;
+
+}
+
+.box-1
+{
+    height:350px;
+    width:60%;
+    margin-top: 10%;
+    background-color: transparent;
+    margin-left:20%;
+}
+
+.unlimited-movies
+{
+    height:150px;
+    width:100%;
+    background-color: transparent;
+}
+.watch-anywhere
+{
+    height:50px;
+    width:100%;
+}
+
+.ready-to-watch
+{
+    height:35px;
+    width:100%;
+}
+
+.get-started
+{
+    height:60px;
+    width:40%%;
+    background-color: transparent;
+}
+
+.first-half
+{
+    height:60px;
+    width:25%;
+    background-color: transparent;
+    float: left;
+    padding-left:30%;
+}
+
+.second-half
+{
+    height:60px;
+    width:15%;
+    background-color:transparent ;
+    float:left;
+}
+
+.placeholder
+{
+  background-color: white;
+  width: 100%;
+  height:100%;
+  border-style: none;
+  border:0px;
+
+}
+
+.get-started-button{
+    width:100%;
+    height:100%;
+    color: white;
+    background-color: #e50914;
+    font-weight: 600;
+    float: left;
+}
+
+.gap
+{
+    width:100%;
+    height:7px;
+    background-color: #444141;
+}
+
+.second-frame
+{
+    width:100%;
+    height:500px;
+    background-color:black;
+}
+
+.second-1
+{
+    height:100%;
+    width:50%;
+    float: left;
+
+}
+
+.second-1-box
+{
+    margin-left: 13%;
+    margin-top:8%;
+    width:70%;
+    height: 60% ;
+    float: left;
+}
+
+.enjoy
+{
+    color: #fff;
+    text-align:center;
+    font-size:3em;
+    font-family: sans-serif;
+
+}
+
+.watch
+{
+    color: #fff;
+    text-align:center;
+    font-size:1.5em;
+    font-family: sans-serif;
+    font-weight:200;
+
+}
+
+.second-2
+{
+    height:100%;
+    width:35%;
+    float: left;
+    background: url(tv.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+
+}
+
+.our-story-card-animation
+{
+    margin-left: 14%;
+    margin-top: 16%;
+    width:100%;
+    height:100%;
+    float: left;    
+
+}
+
+.third-frame
+{
+    width:100%;
+    height:500px;
+    background-color: black;
+}
+
+
+.third-1
+{
+    width:50%;
+    height:100%;
+    float: left;
+
+}
+
+.third-2
+{
+    width:50%;
+    height:100%;
+    float: left;
+
+}
+
+.download
+{
+
+    width: 90%;
+    height: 70%;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+
+.profiles
+{
+    color: #fff;
+    text-align:left;
+    font-size:3em;
+    font-family: sans-serif;
+
+}
+
+.send-children
+{
+    color: #fff;
+    text-align:left;
+    font-size:1.5em;
+    font-family: sans-serif;
+    font-weight:200;
+
+}
+
+.fourth-frame
+{
+    width:100%;
+    height:900px;
+    background-color: black;
+}
+
+.fifth-frame
+{
+    width:100%;
+    height:400px;
+    background-color: black;
+}
+
+.faq
+{
+    color: #fff;
+    text-align:center;
+    font-size:3em;
+    font-family: sans-serif;
+    margin-bottom: 5%;
+
+}
+
+.faq-buttons
+{
+    width:66%;
+    text-align: left;
+    margin-left: 17%;
+    background: #303030;
+    color:#ffff;
+    height:66px;
+    font-size:1.5em;
+    font-family: sans-serif;
+    font-weight:200;
+    padding-left: 2%;
+    margin-bottom:1%;
+    border: none;  
+ 
+}
+
+.ready
+{
+    color: #fff;
+    text-align:center;
+    font-size:1em;
+    font-family: sans-serif;
+    font-weight:400;
+    
+}
+  
+.questions
+{
+    width:50%;
+    height:50px;
+    margin-left:25%;
+
+}
+
+.questions-2
+{
+    color: #757575;
+    font-weight:800%;
+
+}
+
+.footer-items-U
+{
+    width:50%;
+    height:100px;
+    margin-left:25%;
+}
+
+.footer-items
+{
+    width: 25%;
+    height:100%;
+    float:left;
+}
+
+#english-b
+{
+    margin-left: 25%;
+
+}
+
+#english
+{
+    width:20%;
+    float: left;
+    margin-top: 1%;;
+    margin-left: 0%;;
+ 
+} 
+
+.netflix-india-container
+{
+    margin-top:4%;
+    margin-left:25%;
+    height:50px;    
+
+}
+.netflix-india
+{
+    color: #757575;
+
+}
